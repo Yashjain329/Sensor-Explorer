@@ -36,4 +36,14 @@ Let me know if you'd like to:
 - Move on to releasing a versioned APK
 - Set up GitHub Actions for CI/CD and build checks
 
-  
+
+---
+
+### 📍 Next Steps — What do you want to do now?
+
+Let me help you with one of the following:
+
+1. 🏁 **Create a tagged release (`v1.0`) with APK upload**
+2. 🤖 **Set up GitHub Actions for CI/CD (auto-build, lint, test)**
+3. 🏷 **Add license + build badges to README**
+4. 📸 **Create placeholder screenshots for the README**
