@@ -27,8 +27,11 @@
 1. Clone the repo:
    ```bash
    git clone https://github.com/Yashjain329/Sensor-Explorer.git
+   
 2.Open the project in Android Studio
+
 3.Connect your Android device or start an emulator
+
 4.Click Run
 
 ## Project Structure
