@@ -45,6 +45,12 @@ Sensor-Explorer/
 ├── build.gradle
 └── README.md
 
+## 📋 Requirements
+
+- Android Studio Flamingo or later
+- minSdk: 21
+- targetSdk: 34
+
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
