@@ -13,16 +13,27 @@ We welcome improvements, new features, bug reports, or even simple suggestions.
     ```bash
    git clone https://github.com/YOUR-USERNAME/Sensor-Explorer.git
 
-4. Create a new branch for your feature or fix:
+3. Create a new branch for your feature or fix:
    git checkout -b feature/my-feature
 
-5. Make your changes and commit:
+4. Make your changes and commit:
    git commit -m "Add: short but clear message about the change"
 
-6. Push your branch to GitHub:
+5. Push your branch to GitHub:
     git push origin feature/my-feature
 
-7. Open a Pull Request (PR)
+6. Open a Pull Request (PR)
    - Explain what you changed
    - Link any related issues if applicable
+  
+
+---
+
+Now it will render correctly on GitHub. You can paste this directly into a file named `CONTRIBUTING.md` at the root of your repo.
+
+Let me know if you'd like to:
+- Add this file directly to your GitHub repo via web
+- Move on to releasing a versioned APK
+- Set up GitHub Actions for CI/CD and build checks
+
   
