@@ -1,3 +1,8 @@
+![GitHub Stars](https://img.shields.io/github/stars/Yashjain329/Sensor-Explorer?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Yashjain329/Sensor-Explorer?style=social)
+![GitHub License](https://img.shields.io/github/license/Yashjain329/Sensor-Explorer)
+![Last Commit](https://img.shields.io/github/last-commit/Yashjain329/Sensor-Explorer)
+
 # 📱 Sensor Explorer
 
 **Sensor Explorer** is an Android application built using Java that lets users explore and interact with the various sensors available on their device.
